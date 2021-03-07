@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Tamanna Mehta</title>
+    <link>https://tamanna-mehta.github.io/publication/</link>
+      <atom:link href="https://tamanna-mehta.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tamanna-mehta.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://tamanna-mehta.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Movie Recommendation</title>
+      <link>https://tamanna-mehta.github.io/publication/movie_recommendation/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://tamanna-mehta.github.io/publication/movie_recommendation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We Work</title>
+      <link>https://tamanna-mehta.github.io/publication/we_word/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://tamanna-mehta.github.io/publication/we_word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie Success Prediction</title>
+      <link>https://tamanna-mehta.github.io/publication/movie_success_prediction/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://tamanna-mehta.github.io/publication/movie_success_prediction/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
